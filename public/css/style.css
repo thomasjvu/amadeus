@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;700&display=swap');
+
+/**
+* Base
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #fff;
+    background: black;
+    font-family: "EB Garamond", serif;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+}
+
+/**
+* Text
+**/
+
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: #aa491f;
+}
+
+p {
+    font-size: 1.25rem;
+}
+
+/**
+* Layouts
+**/
+.text-box {
+    border: 1px solid white;
+    border-radius: 2px;
+    width: 635px;
+    margin: 20px 0 10px 0;
+    padding: 25px;
+}
+
+.description-box {
+    color: black;
+    background: white;
+    border: 1px solid black;
+    border-radius: 2px;
+    width: 635px;
+    margin: 20px 0 10px 0;
+    padding: 25px;
+}
+
+/**
+* Image
+**/
+
+img {
+    display: flex;
+    margin: 0px auto 10px auto;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+
+/**
+* Class Styles
+**/
+.text-bold {
+    font-weight: bold;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.el-psy-kongroo {
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
