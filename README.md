@@ -13,6 +13,15 @@ Amadeus is currently hosted on [Replit](https://amadeus.thomasjvu.repl.co), and 
 - Express
 - Discord.js
 
+### Demonstration
+
+<div align="center">
+    
+![Preview](public/assets/preview.mp4)
+
+</div>
+
+
 ## Optimizations
 Currently, the Amadeus bot is only able to answer one-off questions, and does not continue a conversation from where it has left off. The goal is for Amadeus to have tha bility to converse with multiple Discord users at a single time, remembering its conversation with each user.
 
