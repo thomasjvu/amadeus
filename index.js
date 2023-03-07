@@ -1,4 +1,5 @@
 const express = require('express')
+const dotenv = require("dotenv").config()
 const { Configuration, OpenAIApi } = require("openai");
 const { Client, GatewayIntentBits } = require("discord.js");
 
