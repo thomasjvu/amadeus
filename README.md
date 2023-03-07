@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/49382745/223300456-a7102716-5ea7-4630-
 
 
 ## Optimizations
-Currently, the Amadeus bot is only able to answer one-off questions, and does not continue a conversation from where it has left off. The goal is for Amadeus to have tha bility to converse with multiple Discord users at a single time, remembering its conversation with each user.
+Currently, the Amadeus bot is only able to answer one-off questions, and does not continue a conversation from where it has left off. The goal is for Amadeus to have the ability to converse with multiple Discord users at a single time, remembering its conversation with each user.
 
 ## Credits
 All assets used are the intellectual property of MAGES, the creators of the Steins;Gate. This project is not meant to impede or violate their copyright, and may be taken down by their request at any given moment.
