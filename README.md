@@ -14,12 +14,7 @@ Amadeus is currently hosted on [Replit](https://amadeus.thomasjvu.repl.co), and 
 - Discord.js
 
 ### Demonstration
-
-<div align="center">
-    
-![Preview](public/assets/preview.mp4)
-
-</div>
+https://user-images.githubusercontent.com/49382745/223300456-a7102716-5ea7-4630-a3e9-6a34e32e26f5.mp4
 
 
 ## Optimizations
