@@ -6,7 +6,7 @@ Amadeus is a **Discord Bot** that enables users to chat with an artificial intel
 </div>
 
 ## Technologies
-Amadeus is currently hosted on [Replit](https://amadeus.thomasjvu.repl.co), and uses Node.js on the backend with the Express framework to keep the bot running even when the replit is closed. The frontend uses vanilla HTML/CSS/JavaScript.
+Amadeus is currently hosted on [Replit](https://amadeus.thomasjvu.repl.co). It uses Node.js on the backend with the Express framework. The frontend uses vanilla HTML/CSS/JavaScript.
 
 ### NPM Packages
 - OpenAI
@@ -15,7 +15,6 @@ Amadeus is currently hosted on [Replit](https://amadeus.thomasjvu.repl.co), and 
 
 ### Demonstration
 https://user-images.githubusercontent.com/49382745/223300456-a7102716-5ea7-4630-a3e9-6a34e32e26f5.mp4
-
 
 ## Optimizations
 Currently, the Amadeus bot is only able to answer one-off questions, and does not continue a conversation from where it has left off. The goal is for Amadeus to have the ability to converse with multiple Discord users at a single time, remembering its conversation with each user.
